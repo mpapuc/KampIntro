@@ -37,8 +37,7 @@ namespace Metotlar
             sepetManager.Ekle2("Armut", "Yeşil armut", 12);
             sepetManager.Ekle2("Elma", "Yeşil elma", 10);
             sepetManager.Ekle2("Karpuz", "Diyarbakır karpuzu", 60);
-
-
+            
         }
     }
 }
